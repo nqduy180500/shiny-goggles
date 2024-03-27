@@ -1,5 +1,5 @@
 {
-  "name": "@lbnqduy11805/miniature-garbanzo",
+  "name": "@nqduy180500/shiny-goggles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbnqduy11805/miniature-garbanzo.git"
+    "url": "https://github.com/nqduy180500/shiny-goggles.git"
   },
   "dependencies": {
     "@lbnqduy/cautious-happiness": "^1.0.0",
